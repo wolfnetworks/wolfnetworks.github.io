@@ -32,7 +32,7 @@ The padding is very important to make sure the scrollspy picks up the right area
 of those sections to manage the look and feel of the site. */
 
 .intro-section {
-    min-height: 100%;
+    min-height: 75%;
     padding-top: 150px;
     text-align: center;
     background: url("https://pixeltogether.com/static/6793522-free-office-wallpaper.jpg(0)") fixed center;
@@ -47,15 +47,15 @@ of those sections to manage the look and feel of the site. */
 }
 
 .services-section {
-    min-height: 100%;
+    min-height: 75%;
     padding-top: 150px;
     text-align: center;
     background: white;
 }
 
 .contact-section {
-    min-height: 100%;
+    min-height: 75%;
     padding-top: 150px;
     text-align: center;
-    background: white;
+    background: #e6ecff;
 }

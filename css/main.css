@@ -1,8 +1,10 @@
-h1, h2, h3, p{
+h1, h2, h3, h4, p{
 	color: black;
 	font-family: courier;
 }
-
+p{
+	font-size: 16px;
+}
 .big-title{
 	font-size: 64px;
 	color: white;
