@@ -36,6 +36,7 @@ of those sections to manage the look and feel of the site. */
     padding-top: 150px;
     text-align: center;
     background: url("https://pixeltogether.com/static/6793522-free-office-wallpaper.jpg(0)") fixed center;
+    background-size: cover;
 }
 
 .about-section {
