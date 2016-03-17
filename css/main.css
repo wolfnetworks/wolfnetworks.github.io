@@ -1,8 +1,16 @@
 h1, p{
-	color: white;
+	color: black;
 	font-family: courier;
 }
 
 .big-title{
 	font-size: 96px;
+}
+
+.navbar-default .navbar-brand{
+	color: black;
+}
+
+.navbar-default .navbar-nav>li>a{
+	color: black;
 }
