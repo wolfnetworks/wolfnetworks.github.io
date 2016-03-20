@@ -50,12 +50,12 @@ of those sections to manage the look and feel of the site. */
     min-height: 75%;
     padding-top: 150px;
     text-align: center;
-    background: white;
+    background: #f0f5f5;
 }
 
 .contact-section {
     min-height: 75%;
     padding-top: 150px;
     text-align: center;
-    background: #e6ecff;
+    background: #f0f5f5;
 }

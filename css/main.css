@@ -1,20 +1,28 @@
-h1, h2, h3, h4, p{
+h1, h3, p{
 	color: black;
 	font-family: courier;
 }
+
+h3{
+	color: white;
+	text-shadow: 1px 1px black;
+}
+
 p{
 	font-size: 16px;
 }
+
 .big-title{
+	font-family: courier;
 	font-size: 64px;
 	color: white;
 	text-shadow: 2px 2px black;
 }
 
 .navbar-default .navbar-brand{
-	color: black;
+	color: #003366;
 }
 
 .navbar-default .navbar-nav>li>a{
-	color: black;
+	color: #003366;
 }
