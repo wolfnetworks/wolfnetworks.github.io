@@ -19,6 +19,11 @@ p{
 	text-shadow: 2px 2px black;
 }
 
+#fb-img{
+	max-width: 150px;
+	max-height: 100px;
+}
+
 .navbar-default .navbar-brand{
 	color: #003366;
 }
